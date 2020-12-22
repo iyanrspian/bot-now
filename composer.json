@@ -1,0 +1,18 @@
+{
+    "name": "itsme/bot-now",
+    "description": "Coba Line-Bot",
+    "authors": [
+        {
+            "name": "iyanrspian",
+            "email": "iyanrispian@outlook.com"
+        }
+    ],
+    "require": {
+        "slim/psr7": "^1.3",
+        "nyholm/psr7": "^1.3",
+        "nyholm/psr7-server": "^1.0",
+        "guzzlehttp/psr7": "^1.7",
+        "http-interop/http-factory-guzzle": "^1.0",
+        "laminas/laminas-diactoros": "^2.5"
+    }
+}
